@@ -1,0 +1,3 @@
+# This file ensures the data directory is tracked by git
+# Place your CSV files here
+# Example: 2019-Nov.csv 
